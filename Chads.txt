@@ -1,8 +1,8 @@
 Georg von Frundsberg
 Gaius Julius Caesar Octavianus
 Otto Von Bismarck
-Germanicus Julius Caesar Claudianus
-Caesar Nerva Trajanus
+Germanicus Julius Caesar
+Trajan
 Caesar Marcus Aurelius Antoninus Augustus
 Socrates
 Plato
@@ -17,7 +17,7 @@ Horatio Nelson
 Eugene of Savoy
 Frederick II
 Adolf Ehrnrooth
-Lauri Allan Torni
+Larry Alan Thorne
 Aimo Koivunen
 Simo Hayha
 Napoleon Bonaparte
@@ -44,7 +44,8 @@ Alexander IV
 Olympias
 Cassander
 Philip IV
-Antipatros and Alexander V
-Demetrios I Poliorketes ("Besieger")
+Antipatros
+Alexander V
+Demetrius I of Macedon
 Pyrrhos of Epeiros
 Lysimachos
